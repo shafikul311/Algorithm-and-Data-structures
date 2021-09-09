@@ -1,3 +1,24 @@
+
+
+// Big O Notation
+// ---------------------------------------
+
+
+
+// What is Big O notation? 
+// Big-O notation (also called "asymptotic growth" notation) is a relative representation of the complexity of an algorithm. It shows how an algorithm scales based on input size.
+
+
+// linear Time  o(n)
+
+// constant Time O(1)
+
+// Quadratic Time O(n2)
+
+// Cubic Time O(n3) 
+
+
+
 // find missing number
 // Assume an array of non - negative integers.A second array is formed by shuffling the elements of the first array and deleting a random element.Given these two arrays, find which element is missing in the second array.Do this in linear time with constant memory use.
 
